@@ -449,7 +449,7 @@ header .navbar ul li a:hover{
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #90324e, #944141d9);
+  background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 .skills h2 {
   color: #fff;
@@ -458,7 +458,7 @@ header .navbar ul li a:hover{
   color: rgb(255, 230, 0);
 }
 .skills .container {
-  background: rgb(0 0 0 / 51%);
+  background: rgba(0, 0, 22, 0.4);
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
@@ -519,6 +519,7 @@ header .navbar ul li a:hover{
 }
 /* skills media queries ends*/
 /* skills section ends */
+
 
 /* education section starts */
 .education{
