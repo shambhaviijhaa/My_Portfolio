@@ -120,8 +120,7 @@ skills.forEach(skill => {
     skillHTML += `
     <div class="bar">
           <div class="info">
-            <a href=${skill.icon} alt="skill" />
-            <span>${skill.name}</span>
+            <span style="color:white" >${skill.name}</span>
           </div>
         </div>`
 });
