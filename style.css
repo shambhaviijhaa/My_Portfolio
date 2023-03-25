@@ -509,7 +509,7 @@ header .navbar ul li a:hover{
 @media screen and (max-width: 1400px) {
   .skills .container {
     padding: 0;
-    margin: 0;
+    margin: 5;
   }
   .skills .container .row {
     grid-template-columns: repeat(2, 1fr);
