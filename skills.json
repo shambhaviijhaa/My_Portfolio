@@ -2,7 +2,7 @@
     
     {
         "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "icon": "https://www.flaticon.com/free-icons/linkedin"
     },
     {
         "name": "HTML5",
@@ -36,10 +36,6 @@
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-    {
-        "name": "Team Work",
-        "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
-    }, 
     {
         "name": "Data Structure and Algorithm",
         "icon": "https://img.icons8.com/color/48/000000/spreadsheet.png"
