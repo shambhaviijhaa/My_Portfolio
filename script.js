@@ -76,9 +76,9 @@ $("#contact-form").submit(function (event) {
 
 
 event.preventDefault();
-emailjs.init("-L45b_OvcTAJElwgr");
+emailjs.init("Zy9ybRh06CcVk_wen");
 console.log("form submitted");
-emailjs.sendForm('service_044d7ep', 'template_usr78qm', '#contact-form')
+emailjs.sendForm('service_m71zjyn', 'template_djkxiau', '#contact-form')
     .then(function (response) {
         console.log('SUCCESS!', response.status, response.text);
         document.getElementById("contact-form").reset();
