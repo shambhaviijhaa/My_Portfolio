@@ -1,22 +1,6 @@
 [
    
     {
-        "name": "HTML5",
-        "icon": ""
-    },
-    {
-        "name": "CSS3",
-        "icon": ""
-    },
-    {
-        "name": "JavaScsript",
-        "icon": ""
-    },
-    {
-        "name": "MySQL",
-        "icon": ""
-    },
-    {
         "name": "Python",
         "icon": ""
     },
@@ -25,7 +9,23 @@
         "icon": ""
     },
     {
-        "name": "C Language",
+        "name": "Java",
+        "icon": ""
+    },
+    {
+        "name": "C",
+        "icon": ""
+    },
+    {
+        "name": "SQL",
+        "icon": ""
+    },
+    {
+        "name": "HTML",
+        "icon": ""
+    },
+    {
+        "name": "CSS",
         "icon": ""
     },
     {
@@ -45,7 +45,7 @@
         "icon": ""
     },
     {
-        "name": "MS Office",
+        "name": "Blockchain",
         "icon": ""
     }    
 ]
